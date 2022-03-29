@@ -27,11 +27,6 @@ Movies sample app developed MVVM architecture design pattern that follow the bes
    [Currency-Converter-MVVM]: <https://github.com/WaheedNazir/CurrencyCofFnverter>
    
 
-   
-
-## Author
-[Waheed Nazir](https://github.com/WaheedNazir "Waheed Nazir (WaveTechStudio)")
-
 
 ## API Sources
  1. [The Movie DB (TMDB)](https://www.themoviedb.org/documentation/api)
